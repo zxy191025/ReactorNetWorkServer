@@ -5,3 +5,9 @@
 
 
 
+# 1. compile on linux
+    gcc main.c -o main
+# 2. how to run ?
+    ./main 8898
+    8898 is the listening port.
+
