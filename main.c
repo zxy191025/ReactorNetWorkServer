@@ -334,5 +334,5 @@ int main(int argc,char *argv[])
         return -1;
     }
     //初始化网络
-     kv_run_while(argc, argv);
+     initalNetwork(argc, argv);
 }
