@@ -1,9 +1,7 @@
 # Reactor network server
-# Author zhenjia.zhao 
-# Date 2025/05/12
-# Description Implemented a easy epoll server based on reactor model 
-
-
+    Author zhenjia.zhao 
+    Date 2025/05/12
+    Description Implemented a easy epoll server based on reactor model 
 
 # 1. compile on linux
     gcc main.c -o main
